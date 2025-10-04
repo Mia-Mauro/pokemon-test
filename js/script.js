@@ -19,6 +19,21 @@ const listaPokemon = [
     colorBorde: "#4E8234",
   },
   {
+    nombre: "Raichu",
+    img: "../img/raichu.webp",
+    tipo: ["Eléctrico"],
+    numero: 26,
+    descripcion:
+      "Raichu es un Pokémon de tipo Eléctrico. Almacena energía en sus mejillas y puede liberar potentes descargas eléctricas.",
+    hp: 60,
+    hpActual: 60,
+    ataque: 90,
+    defensa: 55,
+    velocidad: 110,
+    colorFondo: "#F8D030",
+    colorBorde: "#E0C068",
+  }
+  {
     nombre: "Charmander",
     img: "../img/charmander.webp",
     tipo: ["Fuego"],
